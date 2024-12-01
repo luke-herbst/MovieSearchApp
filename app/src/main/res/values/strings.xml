@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project9</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="signOut">Sign Out</string>
+    <string name="feedback">Feedback</string>
+</resources>

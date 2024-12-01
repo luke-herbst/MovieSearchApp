@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etEmail" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="btnSignUp" type="id" />
+    <item name="btnLogout" type="id" />
+    <item name="btnToNotes" type="id" />
+</resources>
