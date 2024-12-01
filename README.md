@@ -1,6 +1,6 @@
 # Movie Search App
 
-This Android app allows users to search for movies using the OMDb API. It features Firebase authentication, a movie search screen, and functionality to display movie details like title, poster, year of release, genre, rating, runtime, and IMDB page links. The app also saves the user's search history to Firestore and stores a random poster image from each search in a private GitHub repository.
+This Android app allows users to search for movies using the OMDb API. It features Firebase authentication, a movie search screen, and functionality to display movie details. The app also saves the user's search history to Firestore and stores a random poster image from each search in a private GitHub repository.
 
 ## Functionality
 
